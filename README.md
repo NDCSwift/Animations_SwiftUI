@@ -12,7 +12,7 @@ This project is a collection of focused SwiftUI animation demos — springs, key
 - **Visual feedback** — interactive controls let you tweak parameters and see changes in real time, building intuition faster than reading docs alone
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/kaI-aBljU9M)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -57,4 +57,4 @@ Change `com.yourname.Animations-SwiftUI` to a bundle ID unique to your account, 
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/kaI-aBljU9M)
